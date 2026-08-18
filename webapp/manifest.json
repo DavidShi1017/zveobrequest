@@ -167,6 +167,21 @@
                       "text": "Upload Excel"
                     }
                   }
+                },
+                "body": {
+                  "sections": {
+                    "SupportingDocument": {
+                      "subSections": {
+                        "Declaration": {
+                          "fields": {
+                            "AckConfirmed": {
+                              "template": "zveobrequest.ext.fragments.AckConfirmed"
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
                 }
               }
             }
