@@ -170,15 +170,11 @@
                 },
                 "body": {
                   "sections": {
-                    "SupportingDocument": {
-                      "subSections": {
-                        "Declaration": {
-                          "fields": {
-                            "AckConfirmed": {
-                              "template": "zveobrequest.ext.fragments.AckConfirmed"
-                            }
-                          }
-                        }
+                    "DeclarationCheckbox": {
+                      "template": "zveobrequest.ext.fragments.AckConfirmed",
+                      "position": {
+                        "placement": "After",
+                        "anchor": "SupportingDocument"
                       }
                     }
                   }
