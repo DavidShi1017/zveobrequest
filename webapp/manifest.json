@@ -112,7 +112,7 @@
           "target": "VendorRequestList"
         },
         {
-          "pattern": "VendorRequest({key}):?query:",
+          "pattern": "ZC_VO_MYREQ({key}):?query:",
           "name": "VendorRequestObjectPage",
           "target": "VendorRequestObjectPage"
         }
