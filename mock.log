@@ -1,0 +1,448 @@
+(node:14920) [DEP0040] DeprecationWarning: The `punycode` module is deprecated. Please use a userland alternative instead.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+(node:38084) [DEP0040] DeprecationWarning: The `punycode` module is deprecated. Please use a userland alternative instead.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+[32minfo[39m fiori-tools-proxy Using UI5 version 1.136.0 based on manifest.json
+[33mwarn[39m fiori-tools-proxy The configuration property `ignoreCertError` is deprecated. Use `ignoreCertErrors` (plural) instead.
+[32minfo[39m fiori-tools-proxy Starting fiori-tools-proxy using following configuration:
+[32minfo[39m fiori-tools-proxy proxy: 'undefined'
+[32minfo[39m fiori-tools-proxy ignoreCertErrors: 'false'
+[32minfo[39m fiori-tools-proxy backend: undefined
+[32minfo[39m fiori-tools-proxy ui5: [{"path":"/resources","url":"https://ui5.sap.com","version":"1.136.0"},{"path":"/test-resources","url":"https://ui5.sap.com","version":"1.136.0"}]
+[32minfo[39m fiori-tools-proxy debug: 'false'
+[32minfo[39m fiori-tools-appreload Livereload middleware started for port 35730 and path D:\myABAPwork\ZAPP_VO\zveobrequest\webapp
+[32minfo[39m fiori-tools-preview Initialized for app zveobrequest
+info server:custom-middleware:ui5-tooling-transpile-middleware Create Babel configuration based on ui5.yaml configuration options...
+info server:custom-middleware:ui5-tooling-transpile-middleware Using browserslist configuration from ui5.yaml...
+Server started
+URL: http://localhost:8080
+info server:ux-fe-mockserver :: Handling POST request for: /ZC_VO_MYREQ
+info server:ux-fe-mockserver :: POST data: {}
+info server:ux-fe-mockserver :: Response Data: {
+  "RequestUuid": "5b9a64aa-5620-4ff7-87eb-b46a9a125c28",
+  "RequestId": "",
+  "RequestType": "",
+  "Status": "",
+  "Requestor": "",
+  "SubmissionDate": "2026-08-18",
+  "Approver": "",
+  "DecisionDate": "2026-08-18",
+  "ApproverComment": "",
+  "DuplicateCheckResult": "",
+  "BusinessPartner": "",
+  "SupplierName": "",
+  "Email": "",
+  "EmailUpdate": "",
+  "ContactNumber": "",
+  "ContactNumberUpdate": "",
+  "Uen": "",
+  "UenUpdate": "",
+  "Street": "",
+  "StreetUpdate": "",
+  "HouseNumber": "",
+  "HouseNumberUpdate": "",
+  "City": "",
+  "CityUpdate": "",
+  "Region": "",
+  "RegionUpdate": "",
+  "Country": "",
+  "CountryName": "",
+  "CountryUpdate": "",
+  "PostalCode": "",
+  "PostalCodeUpdate": "",
+  "CreatedAt": 0,
+  "ChangedAt": 0,
+  "AckConfirmed": false,
+  "HasDraftEntity": false,
+  "DraftEntityCreationDateTime": "2026-08-18T01:14:24.578Z",
+  "DraftEntityLastChangeDateTime": "2026-08-18T01:14:24.578Z",
+  "HasActiveEntity": false,
+  "IsActiveEntity": false,
+  "__CreateByAssociationControl": {
+    "_Attachment": "",
+    "_Bank": "",
+    "_Comment": "",
+    "_CompanyCode": "",
+    "_Log": ""
+  },
+  "__EntityControl": {
+    "Deletable": "",
+    "Updatable": ""
+  },
+  "__OperationControl": {
+    "Edit": "",
+    "uploadTemplate": ""
+  },
+  "SAP__Messages": {
+    "code": "",
+    "message": "",
+    "target": "",
+    "additionalTargets": "",
+    "transition": "",
+    "numericSeverity": "",
+    "longtextUrl": ""
+  },
+  "DraftAdministrativeData": {
+    "DraftUUID": "00ca3384-c72f-4c3c-8de0-6cbb4193ed5c",
+    "DraftEntityType": "com.sap.gateway.srvd.zui_vo_myreq.v0001.ZC_VO_MYREQType",
+    "CreationDateTime": "2026-08-18T01:14:24.572Z",
+    "CreatedByUser": "nobody",
+    "LastChangeDateTime": "2026-08-18T01:14:24.572Z",
+    "LastChangedByUser": "nobody",
+    "DraftAccessType": "",
+    "InProcessByUser": "nobody",
+    "DraftIsKeptByUser": false,
+    "DraftIsCreatedByMe": true,
+    "DraftIsLastChangedByMe": true,
+    "DraftIsProcessedByMe": true,
+    "CreatedByUserDescription": "nobody",
+    "LastChangedByUserDescription": "nobody",
+    "InProcessByUserDescription": "nobody"
+  }
+}
+warn builder:processors:manifestEnhancer /manifest.json: Generated supported locales ('') for bundle 'i18n/i18n.properties' do not contain default fallback locale 'en'. Either provide a properties file for 'en' or configure another available fallbackLocale
+warn builder:processors:manifestEnhancer /manifest.json: Generated supported locales ('') for bundle 'i18n/i18n.properties' do not contain default fallback locale 'en'. Either provide a properties file for 'en' or configure another available fallbackLocale
+warn builder:processors:manifestEnhancer /manifest.json: Generated supported locales ('') for bundle 'i18n/i18n.properties' do not contain default fallback locale 'en'. Either provide a properties file for 'en' or configure another available fallbackLocale
+warn builder:processors:manifestEnhancer /manifest.json: Generated supported locales ('') for bundle 'i18n/i18n.properties' do not contain default fallback locale 'en'. Either provide a properties file for 'en' or configure another available fallbackLocale
+warn builder:processors:manifestEnhancer /manifest.json: Generated supported locales ('') for bundle 'i18n/i18n.properties' do not contain default fallback locale 'en'. Either provide a properties file for 'en' or configure another available fallbackLocale
+warn builder:processors:manifestEnhancer /manifest.json: Generated supported locales ('') for bundle 'i18n/i18n.properties' do not contain default fallback locale 'en'. Either provide a properties file for 'en' or configure another available fallbackLocale
+info server:custom-middleware:ui5-tooling-transpile-middleware Transpiling resource /Component.ts
+info server:ux-fe-mockserver :: Handling POST request for: /ZC_VO_MYREQ
+info server:ux-fe-mockserver :: POST data: {}
+info server:ux-fe-mockserver :: Response Data: {
+  "RequestUuid": "3e66d01f-3886-475b-bd6a-e7d98e670601",
+  "RequestId": "",
+  "RequestType": "",
+  "Status": "",
+  "Requestor": "",
+  "SubmissionDate": "2026-08-18",
+  "Approver": "",
+  "DecisionDate": "2026-08-18",
+  "ApproverComment": "",
+  "DuplicateCheckResult": "",
+  "BusinessPartner": "",
+  "SupplierName": "",
+  "Email": "",
+  "EmailUpdate": "",
+  "ContactNumber": "",
+  "ContactNumberUpdate": "",
+  "Uen": "",
+  "UenUpdate": "",
+  "Street": "",
+  "StreetUpdate": "",
+  "HouseNumber": "",
+  "HouseNumberUpdate": "",
+  "City": "",
+  "CityUpdate": "",
+  "Region": "",
+  "RegionUpdate": "",
+  "Country": "",
+  "CountryName": "",
+  "CountryUpdate": "",
+  "PostalCode": "",
+  "PostalCodeUpdate": "",
+  "CreatedAt": 0,
+  "ChangedAt": 0,
+  "AckConfirmed": false,
+  "HasDraftEntity": false,
+  "DraftEntityCreationDateTime": "2026-08-18T01:24:17.682Z",
+  "DraftEntityLastChangeDateTime": "2026-08-18T01:24:17.682Z",
+  "HasActiveEntity": false,
+  "IsActiveEntity": false,
+  "__CreateByAssociationControl": {
+    "_Attachment": "",
+    "_Bank": "",
+    "_Comment": "",
+    "_CompanyCode": "",
+    "_Log": ""
+  },
+  "__EntityControl": {
+    "Deletable": "",
+    "Updatable": ""
+  },
+  "__OperationControl": {
+    "Edit": "",
+    "uploadTemplate": ""
+  },
+  "SAP__Messages": {
+    "code": "",
+    "message": "",
+    "target": "",
+    "additionalTargets": "",
+    "transition": "",
+    "numericSeverity": "",
+    "longtextUrl": ""
+  },
+  "DraftAdministrativeData": {
+    "DraftUUID": "ba0bbbe1-3d19-45c3-859c-0bf1d60d543c",
+    "DraftEntityType": "com.sap.gateway.srvd.zui_vo_myreq.v0001.ZC_VO_MYREQType",
+    "CreationDateTime": "2026-08-18T01:24:17.682Z",
+    "CreatedByUser": "nobody",
+    "LastChangeDateTime": "2026-08-18T01:24:17.682Z",
+    "LastChangedByUser": "nobody",
+    "DraftAccessType": "",
+    "InProcessByUser": "nobody",
+    "DraftIsKeptByUser": false,
+    "DraftIsCreatedByMe": true,
+    "DraftIsLastChangedByMe": true,
+    "DraftIsProcessedByMe": true,
+    "CreatedByUserDescription": "nobody",
+    "LastChangedByUserDescription": "nobody",
+    "InProcessByUserDescription": "nobody"
+  }
+}
+info server:ux-fe-mockserver :: Handling POST request for: /ZC_VO_MYREQ
+info server:ux-fe-mockserver :: POST data: {}
+info server:ux-fe-mockserver :: Response Data: {
+  "RequestUuid": "ca9d5998-ecfb-493d-816a-4ea458b7713a",
+  "RequestId": "",
+  "RequestType": "",
+  "Status": "",
+  "Requestor": "",
+  "SubmissionDate": "2026-08-18",
+  "Approver": "",
+  "DecisionDate": "2026-08-18",
+  "ApproverComment": "",
+  "DuplicateCheckResult": "",
+  "BusinessPartner": "",
+  "SupplierName": "",
+  "Email": "",
+  "EmailUpdate": "",
+  "ContactNumber": "",
+  "ContactNumberUpdate": "",
+  "Uen": "",
+  "UenUpdate": "",
+  "Street": "",
+  "StreetUpdate": "",
+  "HouseNumber": "",
+  "HouseNumberUpdate": "",
+  "City": "",
+  "CityUpdate": "",
+  "Region": "",
+  "RegionUpdate": "",
+  "Country": "",
+  "CountryName": "",
+  "CountryUpdate": "",
+  "PostalCode": "",
+  "PostalCodeUpdate": "",
+  "CreatedAt": 0,
+  "ChangedAt": 0,
+  "AckConfirmed": false,
+  "HasDraftEntity": false,
+  "DraftEntityCreationDateTime": "2026-08-18T01:24:20.779Z",
+  "DraftEntityLastChangeDateTime": "2026-08-18T01:24:20.779Z",
+  "HasActiveEntity": false,
+  "IsActiveEntity": false,
+  "__CreateByAssociationControl": {
+    "_Attachment": "",
+    "_Bank": "",
+    "_Comment": "",
+    "_CompanyCode": "",
+    "_Log": ""
+  },
+  "__EntityControl": {
+    "Deletable": "",
+    "Updatable": ""
+  },
+  "__OperationControl": {
+    "Edit": "",
+    "uploadTemplate": ""
+  },
+  "SAP__Messages": {
+    "code": "",
+    "message": "",
+    "target": "",
+    "additionalTargets": "",
+    "transition": "",
+    "numericSeverity": "",
+    "longtextUrl": ""
+  },
+  "DraftAdministrativeData": {
+    "DraftUUID": "ac2eee8a-d8b5-45a4-965b-75a276ea71dd",
+    "DraftEntityType": "com.sap.gateway.srvd.zui_vo_myreq.v0001.ZC_VO_MYREQType",
+    "CreationDateTime": "2026-08-18T01:24:20.779Z",
+    "CreatedByUser": "nobody",
+    "LastChangeDateTime": "2026-08-18T01:24:20.779Z",
+    "LastChangedByUser": "nobody",
+    "DraftAccessType": "",
+    "InProcessByUser": "nobody",
+    "DraftIsKeptByUser": false,
+    "DraftIsCreatedByMe": true,
+    "DraftIsLastChangedByMe": true,
+    "DraftIsProcessedByMe": true,
+    "CreatedByUserDescription": "nobody",
+    "LastChangedByUserDescription": "nobody",
+    "InProcessByUserDescription": "nobody"
+  }
+}
+warn builder:processors:manifestEnhancer /manifest.json: Generated supported locales ('') for bundle 'i18n/i18n.properties' do not contain default fallback locale 'en'. Either provide a properties file for 'en' or configure another available fallbackLocale
+warn builder:processors:manifestEnhancer /manifest.json: Generated supported locales ('') for bundle 'i18n/i18n.properties' do not contain default fallback locale 'en'. Either provide a properties file for 'en' or configure another available fallbackLocale
+warn builder:processors:manifestEnhancer /manifest.json: Generated supported locales ('') for bundle 'i18n/i18n.properties' do not contain default fallback locale 'en'. Either provide a properties file for 'en' or configure another available fallbackLocale
+info server:ux-fe-mockserver :: Handling POST request for: /ZC_VO_MYREQ
+info server:ux-fe-mockserver :: POST data: {}
+info server:ux-fe-mockserver :: Response Data: {
+  "RequestUuid": "aae6b23c-288e-4e91-9227-533cbc6398a4",
+  "RequestId": "",
+  "RequestType": "",
+  "Status": "",
+  "Requestor": "",
+  "SubmissionDate": "2026-08-18",
+  "Approver": "",
+  "DecisionDate": "2026-08-18",
+  "ApproverComment": "",
+  "DuplicateCheckResult": "",
+  "BusinessPartner": "",
+  "SupplierName": "",
+  "Email": "",
+  "EmailUpdate": "",
+  "ContactNumber": "",
+  "ContactNumberUpdate": "",
+  "Uen": "",
+  "UenUpdate": "",
+  "Street": "",
+  "StreetUpdate": "",
+  "HouseNumber": "",
+  "HouseNumberUpdate": "",
+  "City": "",
+  "CityUpdate": "",
+  "Region": "",
+  "RegionUpdate": "",
+  "Country": "",
+  "CountryName": "",
+  "CountryUpdate": "",
+  "PostalCode": "",
+  "PostalCodeUpdate": "",
+  "CreatedAt": 0,
+  "ChangedAt": 0,
+  "AckConfirmed": false,
+  "HasDraftEntity": false,
+  "DraftEntityCreationDateTime": "2026-08-18T01:27:38.746Z",
+  "DraftEntityLastChangeDateTime": "2026-08-18T01:27:38.746Z",
+  "HasActiveEntity": false,
+  "IsActiveEntity": false,
+  "__CreateByAssociationControl": {
+    "_Attachment": "",
+    "_Bank": "",
+    "_Comment": "",
+    "_CompanyCode": "",
+    "_Log": ""
+  },
+  "__EntityControl": {
+    "Deletable": "",
+    "Updatable": ""
+  },
+  "__OperationControl": {
+    "Edit": "",
+    "uploadTemplate": ""
+  },
+  "SAP__Messages": {
+    "code": "",
+    "message": "",
+    "target": "",
+    "additionalTargets": "",
+    "transition": "",
+    "numericSeverity": "",
+    "longtextUrl": ""
+  },
+  "DraftAdministrativeData": {
+    "DraftUUID": "34e3e72e-6fa5-487e-b34b-c923c6a148a8",
+    "DraftEntityType": "com.sap.gateway.srvd.zui_vo_myreq.v0001.ZC_VO_MYREQType",
+    "CreationDateTime": "2026-08-18T01:27:38.745Z",
+    "CreatedByUser": "nobody",
+    "LastChangeDateTime": "2026-08-18T01:27:38.745Z",
+    "LastChangedByUser": "nobody",
+    "DraftAccessType": "",
+    "InProcessByUser": "nobody",
+    "DraftIsKeptByUser": false,
+    "DraftIsCreatedByMe": true,
+    "DraftIsLastChangedByMe": true,
+    "DraftIsProcessedByMe": true,
+    "CreatedByUserDescription": "nobody",
+    "LastChangedByUserDescription": "nobody",
+    "InProcessByUserDescription": "nobody"
+  }
+}
+info server:ux-fe-mockserver :: Handling POST request for: /ZC_VO_MYREQ
+info server:ux-fe-mockserver :: POST data: {}
+info server:ux-fe-mockserver :: Response Data: {
+  "RequestUuid": "0117bc73-cb9e-4b37-ae56-37aa79c5354a",
+  "RequestId": "",
+  "RequestType": "",
+  "Status": "",
+  "Requestor": "",
+  "SubmissionDate": "2026-08-18",
+  "Approver": "",
+  "DecisionDate": "2026-08-18",
+  "ApproverComment": "",
+  "DuplicateCheckResult": "",
+  "BusinessPartner": "",
+  "SupplierName": "",
+  "Email": "",
+  "EmailUpdate": "",
+  "ContactNumber": "",
+  "ContactNumberUpdate": "",
+  "Uen": "",
+  "UenUpdate": "",
+  "Street": "",
+  "StreetUpdate": "",
+  "HouseNumber": "",
+  "HouseNumberUpdate": "",
+  "City": "",
+  "CityUpdate": "",
+  "Region": "",
+  "RegionUpdate": "",
+  "Country": "",
+  "CountryName": "",
+  "CountryUpdate": "",
+  "PostalCode": "",
+  "PostalCodeUpdate": "",
+  "CreatedAt": 0,
+  "ChangedAt": 0,
+  "AckConfirmed": false,
+  "HasDraftEntity": false,
+  "DraftEntityCreationDateTime": "2026-08-18T01:27:39.424Z",
+  "DraftEntityLastChangeDateTime": "2026-08-18T01:27:39.424Z",
+  "HasActiveEntity": false,
+  "IsActiveEntity": false,
+  "__CreateByAssociationControl": {
+    "_Attachment": "",
+    "_Bank": "",
+    "_Comment": "",
+    "_CompanyCode": "",
+    "_Log": ""
+  },
+  "__EntityControl": {
+    "Deletable": "",
+    "Updatable": ""
+  },
+  "__OperationControl": {
+    "Edit": "",
+    "uploadTemplate": ""
+  },
+  "SAP__Messages": {
+    "code": "",
+    "message": "",
+    "target": "",
+    "additionalTargets": "",
+    "transition": "",
+    "numericSeverity": "",
+    "longtextUrl": ""
+  },
+  "DraftAdministrativeData": {
+    "DraftUUID": "78a76b0a-497c-4661-a1fc-597c4eaead6d",
+    "DraftEntityType": "com.sap.gateway.srvd.zui_vo_myreq.v0001.ZC_VO_MYREQType",
+    "CreationDateTime": "2026-08-18T01:27:39.423Z",
+    "CreatedByUser": "nobody",
+    "LastChangeDateTime": "2026-08-18T01:27:39.423Z",
+    "LastChangedByUser": "nobody",
+    "DraftAccessType": "",
+    "InProcessByUser": "nobody",
+    "DraftIsKeptByUser": false,
+    "DraftIsCreatedByMe": true,
+    "DraftIsLastChangedByMe": true,
+    "DraftIsProcessedByMe": true,
+    "CreatedByUserDescription": "nobody",
+    "LastChangedByUserDescription": "nobody",
+    "InProcessByUserDescription": "nobody"
+  }
+}

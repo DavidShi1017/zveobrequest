@@ -1,0 +1,20 @@
+[
+  {
+    "CcodeUuid": "cccccccc-0000-0000-0000-000000000001",
+    "IsActiveEntity": true,
+    "HasActiveEntity": false,
+    "HasDraftEntity": false,
+    "RequestUuid": "aaaaaaaa-0000-0000-0000-000000000001",
+    "CompanyCode": "1000",
+    "CompanyCodeName": "DCN Trading SG"
+  },
+  {
+    "CcodeUuid": "cccccccc-0000-0000-0000-000000000002",
+    "IsActiveEntity": true,
+    "HasActiveEntity": false,
+    "HasDraftEntity": false,
+    "RequestUuid": "aaaaaaaa-0000-0000-0000-000000000002",
+    "CompanyCode": "2000",
+    "CompanyCodeName": "DCN Trading DE"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "AttachUuid": "dddddddd-0000-0000-0000-000000000001",
+    "IsActiveEntity": true,
+    "HasActiveEntity": false,
+    "HasDraftEntity": false,
+    "RequestUuid": "aaaaaaaa-0000-0000-0000-000000000001",
+    "FileName": "bank-statement.pdf",
+    "MimeType": "application/pdf",
+    "FileSize": 204800,
+    "Content": "",
+    "UploadedAt": "20260817000000"
+  }
+]

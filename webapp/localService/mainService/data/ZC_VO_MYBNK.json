@@ -1,0 +1,28 @@
+[
+  {
+    "BankUuid": "bbbbbbbb-0000-0000-0000-000000000001",
+    "IsActiveEntity": true,
+    "HasActiveEntity": false,
+    "HasDraftEntity": false,
+    "RequestUuid": "aaaaaaaa-0000-0000-0000-000000000001",
+    "BankCountry": "SG",
+    "BankKey": "DBSSSGSG",
+    "BankCity": "Singapore",
+    "SwiftCode": "DBSSSGSGXXX",
+    "BankName": "DBS Bank",
+    "AccountNumber": "0123456789"
+  },
+  {
+    "BankUuid": "bbbbbbbb-0000-0000-0000-000000000002",
+    "IsActiveEntity": true,
+    "HasActiveEntity": false,
+    "HasDraftEntity": false,
+    "RequestUuid": "aaaaaaaa-0000-0000-0000-000000000002",
+    "BankCountry": "DE",
+    "BankKey": "COBADEFF",
+    "BankCity": "Frankfurt",
+    "SwiftCode": "COBADEFFXXX",
+    "BankName": "Commerzbank",
+    "AccountNumber": "9876543210"
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "CommentUuid": "ffffffff-0000-0000-0000-000000000001",
+    "IsActiveEntity": true,
+    "HasActiveEntity": false,
+    "HasDraftEntity": false,
+    "RequestUuid": "aaaaaaaa-0000-0000-0000-000000000001",
+    "Action": "APPROVE",
+    "Actor": "David Shi",
+    "Timestamp": "20260817000000",
+    "CommentText": "Looks good"
+  }
+]
