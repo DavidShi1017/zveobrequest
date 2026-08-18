@@ -127,10 +127,8 @@
               "contextPath": "/ZC_VO_MYREQ",
               "variantManagement": "Page",
               "navigation": {
-                "ZC_VO_MYREQ": {
-                  "detail": {
-                    "route": "VendorRequestObjectPage"
-                  }
+                "detail": {
+                  "route": "VendorRequestObjectPage"
                 }
               },
               "controlConfiguration": {
